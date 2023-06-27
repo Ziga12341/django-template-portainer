@@ -21,3 +21,10 @@ python manage.py startapp my_app
 
 create .env file:
 .env is in .gitignore file you need to create your own file
+
+change settings.py file:
+add dockerfile to project
+
+
+key:
+SECRET_KEY='django-insecure-u7%38yg*%58alio35tw@+%_x=n*z_g(#4ij8@*f28r_bo4*=^6'
