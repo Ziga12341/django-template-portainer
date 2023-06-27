@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u7%38yg*%58alio35tw@+%_x=n*z_g(#4ij8@*f28r_bo4*=^6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 ALLOWED_HOSTS = [
-    'capstone.dev.razum.si',
+    'django-template.dev.razum.si',
     'localhost',
     '127.0.0.1',
     # Add any other domains required here
