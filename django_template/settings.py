@@ -31,7 +31,7 @@ ALLOWED_HOSTS = [
     # Add any other domains required here
 ]
 CSRF_COOKIE_DOMAIN = '.razum.si'
-CSRF_TRUSTED_ORIGINS = ['http://capstone.dev.razum.si', 'https://capstone.dev.razum.si']
+CSRF_TRUSTED_ORIGINS = ['http://django-template.dev.razum.si', 'https://django-template.dev.razum.si']
 
 # Application definition
 

@@ -25,6 +25,10 @@ create .env file:
 change settings.py file:
 add dockerfile to project
 
+need to add 'django-template.dev.razum.si' to ALLOWED_HOSTS.
+
+page is available on:
+https://django-template.dev.razum.si/
 
 key:
 SECRET_KEY='django-insecure-u7%38yg*%58alio35tw@+%_x=n*z_g(#4ij8@*f28r_bo4*=^6'
