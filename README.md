@@ -27,6 +27,9 @@ add dockerfile to project
 
 need to add 'django-template.dev.razum.si' to ALLOWED_HOSTS.
 
+build docker image
+push docker image to registry
+
 page is available on:
 https://django-template.dev.razum.si/
 
