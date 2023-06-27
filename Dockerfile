@@ -22,7 +22,7 @@ RUN mkdir /data && \
 COPY . .
 
 # Run Django migrations
-RUN python manage.py makemigrations votingapp && \
+RUN python manage.py makemigrations my_app && \
     python manage.py migrate
 
 # Expose the port your app is running on
