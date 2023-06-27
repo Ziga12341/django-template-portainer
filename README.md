@@ -20,3 +20,4 @@ cd django_template
 python manage.py startapp my_app
 
 create .env file:
+.env is in .gitignore file you need to create your own file
